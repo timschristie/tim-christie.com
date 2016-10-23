@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "http://tim-christie.com"
+baseurl = "http://tim-christie.com/"
 languageCode = "en-au"
 title = "Tim Christie"
 theme = "cactus"
