@@ -1,6 +1,6 @@
 +++
 title = "China: Day 4"
-description = ""
+description = "Dafen Oil Painting Village"
 date = "2017-12-17T11:20:40+10:00"
 
 +++
