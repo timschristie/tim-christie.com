@@ -1,7 +1,7 @@
 +++
 title = "China: Day 5"
 description = "Travelling to Changsha"
-date = "2017-12-19T09:23:09+10:00"
+date = "2017-12-18T09:23:09+10:00"
 
 +++
 Ate a buffet breakfast at the hotel this morning, then walked north past Hongshan metro station to find a bank which we had passed yesterday. Unfortunately, they were unable to help us - so we took a taxi to a larger bank a short distance away. After we were done, another taxi ride back to the MeiJing hotel - where we packed up our bags and checked out.
