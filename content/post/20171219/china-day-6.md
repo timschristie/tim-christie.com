@@ -1,5 +1,5 @@
 +++
-title = "China: Day 5"
+title = "China: Day 6"
 description = "Juzhou Park"
 date = "2017-12-19T21:54:40+10:00"
 
