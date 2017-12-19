@@ -16,7 +16,7 @@ The island is about 6km long in total, we walked up and down a 2km stretch of th
 
 Of particular interest was a collection of metal sculptures in one corner of the park.
 
-![Robot at Juzhou](/images/bird-at-juzhou.jpg)
+![Robot at Juzhou](/images/robot-at-juzhou.jpg)
 ![Bird at Juzhou](/images/bird-at-juzhou.jpg)
 ![Rhino at Juzhou](/images/rhino-at-juzhou.jpg)
 ![Figure at Juzhou](/images/figure-at-juzhou.jpg)
