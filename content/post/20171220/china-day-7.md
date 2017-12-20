@@ -2,6 +2,7 @@
 title: "China: Day 7"
 date: 2017-12-20T22:33:19+10:00
 draft: false
+description: Hunan Martyr's Park & Hunan Provincial Museum
 ---
 Ate blue corn and an egg for breakfast. Went out afterwards and caught a bus to the Hunan Martyr's Park, Changsha's largest park.
 
