@@ -1,6 +1,6 @@
 +++
 title = "China: Day 2"
-description = "Exploring Shenzhen's northern suburbs & the bay area"
+description = "Shenzhen's northern suburbs & the bay"
 date = "2017-12-15T15:31:08+10:00"
 
 +++
