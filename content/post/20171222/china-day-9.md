@@ -12,4 +12,4 @@ Arrived at the Beijing West Railway Station 5 hours and 39 minutes later. Took t
 
 We took a walk through the area shortly afterwards, and ate dinner at a small local restaurant on Yonghegong Street. Ate dumplings (as is traditional to eat on the Winter Solstice), stir-fried potato strips, tofu + vegetables, deep-fried steamed buns, and some local Beijing Yanjing beer (my favourite Chinese beer).
 
-After eating, we walked around some more and brought some supplies from a local supermarket - then headed back to the hotel for the night.
+After eating, we walked around some more and brought some supplies from a local supermarket, and some buns from a local bakery called Mr. Bao - then headed back to the hotel for the night.

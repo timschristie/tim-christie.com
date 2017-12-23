@@ -10,9 +10,6 @@ The hotel was unable to renew the room we were staying in for another night, so 
 
 Walked to the Shenzhen North Railway Station. Arrived at the West Square, walked around to the East Square and found some lunch. Proceeded to find a China Unicom store, and got a SIM card sorted.
 
-![Shenzhen North Railway Station](/images/shenzhen-north-railway-station.jpg)
-<blockquote>Image taken from [Wikipedia](https://en.wikipedia.org/wiki/File:Shenzhen_North_Railway_Station_West_Square_View.JPG)</blockquote>
-
 Took the metro to Shenzhen Bay Park. Took a stroll along the shoreline, and spotted Hong Kong from across the bay.
 
 ![Shenzhen Bay Park](/images/shenzhen-bay-park.jpg)
