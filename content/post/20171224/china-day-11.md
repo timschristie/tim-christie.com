@@ -18,7 +18,7 @@ There was a lot of modern contemporary art, as well as stores selling handmade m
 
 ![798 Bots](/images/798-bots.jpg)
 ![798 Bonsai](/images/798-bonsai.jpg)
-![798 Instrument](/images/798-instument.jpg)
+![798 Instrument](/images/798-instrument.jpg)
 ![798 Sculpture](/images/798-sculpture.jpg)
 ![798 Figure](/images/798-figure.jpg)
 
