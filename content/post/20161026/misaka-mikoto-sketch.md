@@ -2,7 +2,7 @@
 title = "Misaka Mikoto Sketch"
 description = ""
 date = "2016-10-26T22:00:00+10:00"
-
+draft = "true"
 +++
 ![Misaka Mikoto](/images/20161026-misaka-mikoto.jpg)
 <blockquote> Misaka Mikoto &mdash; Copyright &copy; Kazuma Kamachi &amp; Kiyotaka Haimura</blockquote>

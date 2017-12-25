@@ -2,7 +2,7 @@
 title = "Chihiro Ohino Watercolour"
 description = ""
 date = "2016-10-25T23:00:00+10:00"
-
+draft = "true"
 +++
 ![Cihiro Ohino](/images/20161025-cihiro-ohino.jpg)
 <blockquote> Cihiro Ohino &mdash; Copyright &copy; Hayao Miyazaki</blockquote>

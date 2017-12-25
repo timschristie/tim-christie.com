@@ -2,7 +2,6 @@
 description = ""
 title = "Bash on Ubuntu on Windows"
 date = "2016-10-23T17:55:51+10:00"
-
 +++
 
 I decided to spend some time updating my website over the weekend. Usually this would mean jumping on my [Arch Linux](https://www.archlinux.org) machine &mdash; however, I decided it would be a good chance to give [Bash on Ubuntu on Windows](https://msdn.microsoft.com/en-us/commandline/wsl/about) a go and see how far I could get.
