@@ -22,4 +22,6 @@ There was a lot of modern contemporary art, as well as stores selling handmade m
 ![798 Sculpture](/images/798-sculpture.jpg)
 ![798 Figure](/images/798-figure.jpg)
 
-Headed back to the hotel afterwards via taxi, and grabbed a light dinner in a nearby restaurant.
+Grabbed a hot drink from Gong Tea, then headed back to the hotel via taxi.
+
+Ate a light dinner in a nearby restaurant.
