@@ -14,7 +14,7 @@ Today we decided to go and take a look at a proper hutong. Walked to the nearby 
 
 It was a rather long hutong, and we spent a while walking along the street looking at many shops of interest along the way.
 
-![Nanlouguxiang Hutong Toys](/images/hutong-lanterns.jpg)
+![Nanlouguxiang Hutong Toys](/images/hutong-toys.jpg)
 ![Nanlouguxiang Hutong Rabbits](/images/hutong-rabbits.jpg)
 
 Found a food court and brought a few dishes to try.
