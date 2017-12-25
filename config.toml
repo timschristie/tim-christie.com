@@ -10,7 +10,7 @@ disqusShortname = ""
 
 [params]
 	name = "Tim Christie"
-	description = ""
+	description = "Personal weblog"
 	bio = ""
 	# Enter optionally your twitter account
 	twitter = ""
@@ -25,7 +25,6 @@ disqusShortname = ""
 
 	# Navigation links
 	home = ""
-	about = ""
 	subscribe = ""
 	# Pagination links
 	olderPosts = ""
