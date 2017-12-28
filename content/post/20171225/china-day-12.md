@@ -28,6 +28,7 @@ After eating we continued walking along the huton, and then stopped for afternoo
 
 We started heading in the direction of the lakes near Houhai Park, but did not end up reaching it in the end. Picked up some Mr. Bao buns on the way. Saw the Drum Tower and Bell Tower though, and then took the metro back to the hotel as it was too cold to keep walking outside without warmer clothes.
 
+![Nanlouguxiang Beijing Drum Tower](/images/beijing-drum-tower-2.jpg)
 ![Nanlouguxiang Beijing Drum Tower](/images/beijing-drum-tower.jpg)
 ![Nanlouguxiang Beijing Bell Tower](/images/beijing-bell-tower.jpg)
 

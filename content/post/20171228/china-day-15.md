@@ -5,7 +5,7 @@ description: "Arriving in Hangzhou"
 ---
 The night on the overnight coach went quickly enough, woke up early and recharged our phones (limited charging stations available). Brought some congee (粥) and mantou (饅頭) for breakfast on the train.
 
-The train arrived at 9am sharp. Disembarked at Hangzhou Railway Station (杭州), and took the metro from Chengzhan (城站) to Ding'an Road (定安路). Walked the rest of the way to the Merchant Marco Edgelake Hotel (on Jiangjun Road).
+The train arrived at 9am sharp. Disembarked at Hangzhou Railway Station (杭州), and took the metro from Chengzhan (城站) to Ding'an Road (定安路). Walked the rest of the way to the Merchant Marco Edgelake Hotel (on GuoHuo Road).
 
 After checking in, we walked out to eat a proper breakfast at Kui Yuan Guan (奎元馆) on Jiefang Road. We each ate a bowl of noodles.
 
