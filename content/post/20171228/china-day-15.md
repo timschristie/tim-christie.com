@@ -3,6 +3,8 @@ title: "China: Day 15"
 date: 2017-12-28T18:42:30+10:00
 description: "Arriving in Hangzhou"
 ---
+![Trip to date](/images/hangzhou-trip-to-date.png)
+
 The night on the overnight coach went quickly enough, woke up early and recharged our phones (limited charging stations available). Brought some congee (粥) and mantou (饅頭) for breakfast on the train.
 
 The train arrived at 9am sharp. Disembarked at Hangzhou Railway Station (杭州), and took the metro from Chengzhan (城站) to Ding'an Road (定安路). Walked the rest of the way to the Merchant Marco Edgelake Hotel (on GuoHuo Road).
