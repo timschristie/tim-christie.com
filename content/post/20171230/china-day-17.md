@@ -13,3 +13,7 @@ Checked out of the hotel, and caught the metro to 客运中心 where we transfer
 We decided to eat lunch at a restaurant just outside the bus centre, and then had a coffee at a Starbucks which was next door. Got back to the station just a short while before the bus arrived.
 
 It took about 2 and a half hours to reach Xitangzhen, when we arrived it was still quite overcast and just lightly raining. We walked down the road to the Xitang Holiday Hotel and checked in.
+
+Went out for dinner at about 6pm, at a restaurant directly outside the front of the hotel. After eating, went back to the room and watched some TV.
+
+At about 8:30pm we walked out and took a look at the Jiashan Xitang Ancient Town Scenic Area. We'll be back again tomorrow when everything is open to have a proper look around.
