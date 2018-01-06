@@ -12,3 +12,5 @@ After the movie, we ate lunch in a Pizza Hut restaurant. The food was unlike wha
 Made a trip to the bank next, to try and figure out how to get something working that was causing issues.
 
 Went back to the hotel room afterwards to recharge our phones.
+
+Ate an early dinner, and had a quiet night avoiding the cold weather outdoors.
